@@ -3,7 +3,7 @@ GrowFormer is open-source growtopia discord bot written in nodejs
 # Info
 This bot shows items recipes, real-time server status
 # Commands 
-Main prefix: "gt!" (change it in index.js
+Main prefix: "gt!" (change it in index.js) 
 - stats (show bot stats) 
 - server-stats (shows growtopia server stats) 
 - find <item name> (give results for the provided message) 
