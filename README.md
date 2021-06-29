@@ -16,7 +16,7 @@ Main prefix: "gt!" (change it in index.js)
 Install the following modules:
 - discord.js
 - growapi
-Add your bot token in index.js, change prefix (optional) 
+- Add your bot token in index.js, change prefix (optional) 
 # Credits
 - I used the command handler of [DashCruft](https://github.com/DashCruft/discord.js-command-handler) 
 - Api used is [Growapi](https://www.npmjs.com/package/growapi) 
