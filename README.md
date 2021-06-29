@@ -1,5 +1,5 @@
 # GrowFormer
-GrowFormer is open-source growtopia discord bot written in nodejs
+GrowFormer is an open-source growtopia discord bot written in nodejs
 # Info
 This bot shows items recipes, real-time server status
 # Commands 
