@@ -23,5 +23,6 @@ Install the following modules:
 - Commands written by me (except for help command, I just edited in it) 
 # REMARK:
 I'm no longer working on this bot, so please don't open issues 
-
+# LINKS
+- [Join my discord server](https://discord.gg/b2ejYcJjqA)
 
